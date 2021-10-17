@@ -1,0 +1,43 @@
+use_half: False
+use_ddp: False
+
+work_dir: ./suzi
+data_path: ./suzi
+data_meta: meta/test-suzi.json
+dec_dict: meta/kor_decompose.json
+
+content_font: "tmon"
+language: "kor"
+
+C: 32
+# gen
+g_args:
+  comp_enc:
+    norm: "in"
+    pad_type: zero
+    sigmoid: True
+  emb_block:
+    emb_dim: 8
+  dec:
+    pad_type: zero
+  content_enc:  # Content encoder
+    norm: "in"
+    C_out: 256
+    content_sigmoid: False
+
+batch_size: 1
+n_workers: 8
+comb_iter: 800000
+fact_iter: 50000
+g_lr: 2e-4
+d_lr: 8e-4
+ac_lr: 2e-4
+adam_betas: [0.0, 0.9]
+
+cv_n_unis: 30
+cv_n_fonts: 10
+
+print_freq: 1000
+val_freq: 10000
+save_freq: 50000
+tb_freq: 100

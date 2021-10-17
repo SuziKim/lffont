@@ -206,7 +206,7 @@ class FactTestDataset(Dataset):
         self.content_font = content_font
 
         to_int_dict = {"chn": lambda x: int(x, 16),
-                       "kor": lambda x: ord(x),
+                       "kor": lambda x: int(x, 16),
                        "thai": lambda x: int("".join([f'{ord(each):04X}' for each in x]), 16)
                       }
 
