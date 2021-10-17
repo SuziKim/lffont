@@ -1,12 +1,8 @@
 use_half: False
 use_ddp: False
 
-work_dir: ./suzi
-data_path: ./suzi
-data_meta: meta/test-suzi.json
 dec_dict: meta/kor_decompose.json
-
-content_font: "tmon"
+content_font: "nanumgothic"
 language: "kor"
 
 C: 32

@@ -1,5 +1,5 @@
 {"solmoe-kimdaegeon-medium": {"path": "./fonts/ttf/solmoe-kimdaegeon-medium.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
-"olmoe-kimdaegeon-light": {"path": "./fonts/ttf/solmoe-kimdaegeon-light.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
+"solmoe-kimdaegeon-light": {"path": "./fonts/ttf/solmoe-kimdaegeon-light.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
 "ChangwonDangamAsac-Bold": {"path": "./fonts/ttf/ChangwonDangamAsac-Bold.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
 "chdolbom-Bold": {"path": "./fonts/ttf/chdolbom-Bold.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
 "chdolbom-Regular": {"path": "./fonts/ttf/chdolbom-Regular.ttf", "charlist": ["탕", "뎐", "쪄", "은"]},
