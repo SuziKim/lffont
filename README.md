@@ -1,3 +1,13 @@
+# How to Generate a Korean font 
+```bash
+python3 evaluator.py \
+	cfgs/custom-gen-test.yaml \
+	--weight weight/generator.pth \
+	--img_dir ./serif-based-result \
+	--test_meta ./meta-dataset-gen/gen-meta.json \
+	--data_path ./meta-dataset-gen/lmdb
+```
+
 # Few-shot Font Generation with Localized Style Representations and Factorization (AAAI 2021)
 
 Official PyTorch implementation of LF-Font | [paper](https://arxiv.org/abs/2009.11042)
