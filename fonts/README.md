@@ -5,6 +5,8 @@ Font Licneses
 |---|---|---|---|---|
 | [나눔고딕](https://hangeul.naver.com/2021/fonts/nanum) | Nanum Gothic | NanumGothic.ttf | [license](https://hangeul.naver.com/2021/fonts) | <img src="./png/NanumGothic.png" width="1500"> | 
 | [나눔명조](https://hangeul.naver.com/2021/fonts/nanum) | Nanum Myeongjo | NanumMyeongjo.ttf | [license](https://hangeul.naver.com/2021/fonts) | <img src="./png/NanumMyeongjo.png" width="1500"> |
+| [나눔바른고딕](https://hangeul.naver.com/2021/fonts/nanum) | Nanum Barun Gothic | NanumBarunGothic.ttf | [license](https://hangeul.naver.com/2021/fonts) | <img src="./png/NanumBarunGothic.png" width="1500"> |
+
 | [솔뫼 김대건체 Medium](https://www.kimdaegeon.com/_ENG/node/?menu=n0501500) | SolMoe Kim Dae-gun Medium | solmoe-kimdaegeon-medium.ttf | 솔뫼 김대건체,써밋디자인,공유마당,CC BY | <img src="./png/solmoe-kimdaegeon-medium.png" width="1500"> |
 | [솔뫼 김대건체 Light](https://www.kimdaegeon.com/_ENG/node/?menu=n0501500) | SolMoe Kim Dae-gun Light | solmoe-kimdaegeon-light.ttf | 솔뫼 김대건체,써밋디자인,공유마당,CC BY | <img src="./png/solmoe-kimdaegeon-light.png" width="1500"> |
 | [창원단감아삭체 Bold](https://www.changwon.go.kr/depart/contents.do?mId=1006160000) | Changwon Dangam Asac Bold | ChangwonDangamAsac-Bold.ttf | 무료글꼴, 창원 농업기술센터, 창원단감아삭체 | <img src="./png/ChangwonDangamAsac-Bold.png" width="1500"> |
